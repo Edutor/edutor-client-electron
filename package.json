@@ -1,0 +1,27 @@
+{
+  "name": "edutor-client-electron",
+  "version": "1.0.0",
+  "description": "Edutor client in Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edutor/edutor-client-electron.git"
+  },
+  "keywords": [
+    "education",
+    "elearning",
+    "correction",
+    "assignment",
+    "programming",
+    "feedback"
+  ],
+  "author": "Jens Egholm <jensegholm@protonmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/edutor/edutor-electron-client/issues"
+  },
+  "homepage": "https://github.com/edutor/edutor-electron-client#readme"
+}
